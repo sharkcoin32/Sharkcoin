@@ -17,7 +17,7 @@ About SKN cryptocurrency
 | RPC Port              | 9322                                    |
 | P2P Port              | 8322                                    |
 | Masternode Collateral | 20.000 SKN                              |
-| Block Spacing         | 120 Seconds                             |
+| Block Spacing         | 60 Seconds                             |
 | May Supply		| 100 Millions                            |
 | PoW Period            | nHeight ≤ 500                           |
 | PoS Period            | nHeight ≥ 501                           |
