@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=SKN Core
+Comment=SKN P2P Cryptocurrency
+Comment[fr]=SKN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SKN, eşten eşe kriptografik sanal para birimi
+Exec=sharkcoin-qt %u
+Terminal=false
+Type=Application
+Icon=sharkcoin128
+MimeType=x-scheme-handler/sharkcoin;
+Categories=Office;Finance;
+StartupWMClass=Sharkcoin-qt

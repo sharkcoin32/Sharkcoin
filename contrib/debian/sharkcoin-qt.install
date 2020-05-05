@@ -1,0 +1,6 @@
+usr/local/bin/sharkcoin-qt usr/bin
+share/pixmaps/sharkcoin32.xpm usr/share/pixmaps
+share/pixmaps/sharkcoin16.xpm usr/share/pixmaps
+share/pixmaps/sharkcoin128.png usr/share/pixmaps
+debian/sharkcoin-qt.desktop usr/share/applications
+debian/sharkcoin-qt.protocol usr/share/kde4/services/

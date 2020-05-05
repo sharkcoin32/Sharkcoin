@@ -1,0 +1,8 @@
+/usr/bin/sharkcoin-cli		--	gen_context(system_u:object_r:sharkcoin_exec_t,s0)
+/usr/sbin/sharkcoind		--	gen_context(system_u:object_r:sharkcoin_exec_t,s0)
+/usr/lib(64)?/sharkcoin/sharkcoind		--	gen_context(system_u:object_r:sharkcoin_exec_t,s0)
+
+/etc/sharkcoin(/.*)?		gen_context(system_u:object_r:sharkcoin_conf_t,s0)
+/var/lib/sharkcoin(/.*)?		gen_context(system_u:object_r:sharkcoin_var_lib_t,s0)
+
+(/var)?/run/sharkcoind(/.*)?   gen_context(system_u:object_r:sharkcoin_var_run_t,s0)

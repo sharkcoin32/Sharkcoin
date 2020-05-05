@@ -1,0 +1,3 @@
+usr/local/bin/sharkcoind usr/bin
+usr/local/bin/sharkcoin-cli usr/bin
+debian/examples/sharkcoin.conf etc/sharkcoin
