@@ -1,0 +1,2 @@
+# Sharkcoin
+Sharkcoin core
