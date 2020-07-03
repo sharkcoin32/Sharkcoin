@@ -14,7 +14,7 @@ About SKN cryptocurrency
 |-----------------------|-----------------------------------------|
 | Ticker                | SKN                                     |
 | Algorithm             | QUARK                                   |
-| RPC Port              | 9322                                    |
+| RPC Port              | 8332                                    |
 | P2P Port              | 8322                                    |
 | Masternode Collateral | 20.000 SKN                              |
 | Block Spacing         | 60 Seconds                             |
