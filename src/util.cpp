@@ -501,10 +501,10 @@ void ReadConfigFile(std::map<std::string, std::string>& mapSettingsRet,
            {
             std::string strHeader =
                 "# Sharkcoin Configuration File!\n"
-                "addnode=62.171.170.185:8322\n"
-                "addnode=62.171.170.177:8322\n"
-                "addnode=62.171.170.178:8322\n"
-                "addnode=62.171.170.179:8322\n";
+                "addnode=94.237.99.107:8322\n"
+                "addnode=94.237.92.91:8322\n"
+                "addnode=94.237.98.129:8322\n"
+                "addnode=94.237.98.104:8322\n";
 			fwrite(strHeader.c_str(), std::strlen(strHeader.c_str()), 1, configFile);
 			fclose(configFile);
 			streamConfig.open(GetConfigFile());
